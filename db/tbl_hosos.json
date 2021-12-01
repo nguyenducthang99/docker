@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "617df00a8d25797356a4238e"
+  },
+  "PK_iMaHoso": 1635643402657,
+  "sCMND": "113",
+  "createdAt": {
+    "$date": "2021-10-28T01:23:22.657Z"
+  },
+  "sLinkAnhtruoc": "",
+  "sLinkAnhsau": "",
+  "FK_iMaTrangthaiHoso": 1,
+  "FK_iMaTaiKhoan": "617c49a341888ed7d11c2931",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617df0218d25797356a42391"
+  },
+  "PK_iMaHoso": 1635643425656,
+  "sCMND": "113",
+  "createdAt": {
+    "$date": "2021-10-29T01:23:45.656Z"
+  },
+  "sLinkAnhtruoc": "",
+  "sLinkAnhsau": "",
+  "FK_iMaTrangthaiHoso": 2,
+  "FK_iMaTaiKhoan": "617c49a341888ed7d11c2935",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617df03e8d25797356a42394"
+  },
+  "PK_iMaHoso": 1635643454907,
+  "sCMND": "1113",
+  "createdAt": {
+    "$date": "2021-10-31T01:24:14.907Z"
+  },
+  "sLinkAnhtruoc": "",
+  "sLinkAnhsau": "",
+  "FK_iMaTrangthaiHoso": 1,
+  "FK_iMaTaiKhoan": "617c49a341888ed7d11c2935",
+  "__v": 0
+}]

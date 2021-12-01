@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "617e12abe455a8e2f2cc679b"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1635652267659,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e12abe455a8e2f2cc679c"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652267659,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e12afe455a8e2f2cc67a1"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1635652271002,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e12afe455a8e2f2cc67a2"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652271002,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e12e3863d9490be32be22"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1635652323886,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e12e3863d9490be32be23"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652323886,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1371863d9490be32be29"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1635652465702,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1371863d9490be32be2a"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652465702,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e143e863d9490be32be37"
+  },
+  "PK_iMaTheloai": 1,
+  "PK_iMaSukien": 1635652670343,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e143e863d9490be32be38"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652670343,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e143e863d9490be32be39"
+  },
+  "PK_iMaTheloai": 4,
+  "PK_iMaSukien": 1635652670343,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be45"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1635652965450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be46"
+  },
+  "PK_iMaTheloai": 1,
+  "PK_iMaSukien": 1635652965450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be47"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635652965450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e47f56a784bc650c380eb"
+  },
+  "PK_iMaTheloai": 1,
+  "PK_iMaSukien": 1635665908998,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e47f56a784bc650c380ec"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1635665908998,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618405f3dc57f9d375f5adde"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1636042227366,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bca2541abd4cde24234b7"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1637599781527,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebc9"
+  },
+  "PK_iMaTheloai": 1,
+  "PK_iMaSukien": 1638202015750,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebcb"
+  },
+  "PK_iMaTheloai": 3,
+  "PK_iMaSukien": 1638202015750,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebca"
+  },
+  "PK_iMaTheloai": 2,
+  "PK_iMaSukien": 1638202015750,
+  "__v": 0
+}]

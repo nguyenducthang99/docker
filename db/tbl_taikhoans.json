@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6158583fd603af3375a8c81f"
+  },
+  "PK_iMaTaikhoan": 1633179710981,
+  "sTenNguoidung": "admin",
+  "sEmail": "",
+  "sSodienthoai": "",
+  "sMatkhau": "111111",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaQuyen": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61585cc43ae3369a9b93336a"
+  },
+  "PK_iMaTaikhoan": 1633180868815,
+  "sTenNguoidung": "nhanvien",
+  "sEmail": "",
+  "sSodienthoai": "0329222617",
+  "sMatkhau": "123456",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaQuyen": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61585d203ae3369a9b933371"
+  },
+  "PK_iMaTaikhoan": 1633180960264,
+  "sTenNguoidung": "ducthang",
+  "sEmail": "ducthang@gmail.com",
+  "sSodienthoai": "",
+  "sMatkhau": "123456",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaQuyen": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6176cf298d0f8e46052cea3f"
+  },
+  "PK_iMaTaikhoan": 1635176233441,
+  "sTenNguoidung": "Xuân Sơn",
+  "sEmail": "son.nguyenxuan@gmail.com",
+  "sSodienthoai": "0329222618",
+  "sMatkhau": "111111",
+  "FK_iMaTrangthai": 2,
+  "FK_iMaQuyen": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c49a341888ed7d11c2935"
+  },
+  "PK_iMaTaikhoan": 1635535267268,
+  "sTenNguoidung": "Nguyễn Đức Thắng",
+  "sEmail": "thang.nguyenduc@gmail.com",
+  "sSodienthoai": "0987336733",
+  "sMatkhau": "123456",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaQuyen": 2,
+  "__v": 0
+}]

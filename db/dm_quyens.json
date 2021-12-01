@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "615852187573f0069ac6c2f3"
+  },
+  "PK_iMaQuyen": 10,
+  "sTenQuyen": "Người quan trịw",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615852187573f0069ac6c2f4"
+  },
+  "PK_iMaQuyen": 2,
+  "sTenQuyen": "Người bán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615852187573f0069ac6c2f5"
+  },
+  "PK_iMaQuyen": 1,
+  "sTenQuyen": "Người mua",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61588c584dd83b7788a57779"
+  },
+  "PK_iMaQuyen": 1633193048799,
+  "sTenQuyen": "Người quan trị 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61588d5f54e6b34332e770a2"
+  },
+  "PK_iMaQuyen": 1633193311390,
+  "sTenQuyen": "Người mua 11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61588f0de9ca07100d8a46e7"
+  },
+  "PK_iMaQuyen": 1633193741326,
+  "sTenQuyen": "Bùi Văn Hùng",
+  "__v": 0
+}]

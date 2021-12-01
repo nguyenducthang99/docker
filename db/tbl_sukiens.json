@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "617e128e380c056b8a8464a1"
+  },
+  "PK_iMaSukien": 1635652238428,
+  "sTenSukien": "Hòa nhạc thính phòng",
+  "sSlugSukien": "hoa-nhac-thinh-phong",
+  "dThoigianBatdau": {
+    "$date": "2021-11-29T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-11-30T17:00:00Z"
+  },
+  "sMota": "Buổi hòa nhạc thính phòng \"Âm hưởng xưa\"",
+  "sDiadiem": "Nhà hát lớn Hà Nội",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "__v": 0,
+  "eventDetails": [
+    "1",
+    "2",
+    "3"
+  ]
+},{
+  "_id": {
+    "$oid": "617e12abe455a8e2f2cc6799"
+  },
+  "PK_iMaSukien": 1635652267659,
+  "sTenSukien": "Cải lương: chuyện Tấm - Cám",
+  "sSlugSukien": "cai-luong-chuyen-tam-cam",
+  "dThoigianBatdau": {
+    "$date": "2021-11-20T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-11-23T17:00:00Z"
+  },
+  "sMota": "Tái hiện câu chuyện Tấm Cám qua phong cách cải lương",
+  "sDiadiem": "Nhà hát quân đội",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "__v": 0,
+  "eventDetails": [
+    "1",
+    "2",
+    "3"
+  ]
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be43"
+  },
+  "PK_iMaSukien": 1635652965450,
+  "sTenSukien": "Nhạc vàng: Xưa và nay",
+  "sSlugSukien": "nhac-vang-xua-va-nay",
+  "dThoigianBatdau": {
+    "$date": "2021-11-14T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-11-25T17:00:00Z"
+  },
+  "sMota": "Buổi biểu diễn nhạc vàng với sự giao thoa của xu hướng xưa và nay",
+  "sDiadiem": "Nhà hát lớn Hà Nội",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "__v": 0,
+  "eventDetails": [
+    "1",
+    "2"
+  ]
+},{
+  "_id": {
+    "$oid": "617e47f56a784bc650c380e9"
+  },
+  "PK_iMaSukien": 1635665908998,
+  "sTenSukien": "Chân trời mới",
+  "sSlugSukien": "chan-troi-moi",
+  "dThoigianBatdau": {
+    "$date": "2021-10-31T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-11-30T17:00:00Z"
+  },
+  "sMota": "Perfect",
+  "sDiadiem": "Nhà Hát Lớn",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "eventDetails": [
+    {
+      "PK_iMaCTSuKien": 1635665908998,
+      "FK_iMaSuKien": 1635665908998,
+      "dNgayToChuc": "2021-11-01T14:35:01.000Z",
+      "sThongTinChiTiet": "Khai mạc",
+      "sMoTa": "Khai mạc",
+      "iThoiLuong": "120",
+      "sViTri": "Khán đài A",
+      "iTrangThai": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618405f3dc57f9d375f5addc"
+  },
+  "PK_iMaSukien": 1636042227366,
+  "sTenSukien": "Táo quân 2022",
+  "sSlugSukien": "tao-quan-2022",
+  "dThoigianBatdau": {
+    "$date": "2021-12-28T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-12-30T17:00:00Z"
+  },
+  "sMota": "Gặp nhau cuối năm, táo quân 2022",
+  "sDiadiem": "Nhà hát lớn",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "eventDetails": [
+    {
+      "PK_iMaCTSuKien": 1636042227366,
+      "FK_iMaSuKien": 1636042227366,
+      "dNgayToChuc": "2021-11-04T23:30:58.000Z",
+      "sThongTinChiTiet": "Event name",
+      "sMoTa": "Event detail",
+      "iThoiLuong": "10000",
+      "sViTri": "Nhà hát lớn",
+      "iTrangThai": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bca2541abd4cde24234b5"
+  },
+  "PK_iMaSukien": 1637599781527,
+  "sTenSukien": "Vòng loại world cup",
+  "sSlugSukien": "vong-loai-world-cup",
+  "dThoigianBatdau": {
+    "$date": "2021-11-25T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-12-30T17:00:00Z"
+  },
+  "sMota": "Khuôn khổ vòng loại world cup 2022 khu vực Châu Á",
+  "sDiadiem": "Sân vận động Mỹ Đình",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "eventDetails": [
+    {
+      "PK_iMaCTSuKien": 1637599781527,
+      "FK_iMaSuKien": 1637599781527,
+      "dNgayToChuc": "2021-11-23T12:30:23.000Z",
+      "sThongTinChiTiet": "Việt Nam - Nhật Bản",
+      "sMoTa": "Trận đấu giữa Việt Nam - Nhật Bản",
+      "iThoiLuong": "120",
+      "sViTri": "Sân vận động Mỹ Đình",
+      "iTrangThai": 1
+    },
+    {
+      "PK_iMaCTSuKien": 1637599781528,
+      "FK_iMaSuKien": 1637599781527,
+      "dNgayToChuc": "2021-11-26T11:30:25.000Z",
+      "sThongTinChiTiet": "Việt Nam - Trung Quốc",
+      "sMoTa": "Trận đấu giữa Việt Nam - Trung Quốc",
+      "iThoiLuong": "120",
+      "sViTri": "Sân vận động Mỹ Đình",
+      "iTrangThai": 1
+    },
+    {
+      "PK_iMaCTSuKien": 1637599781529,
+      "FK_iMaSuKien": 1637599781527,
+      "dNgayToChuc": "2021-12-01T11:30:14.000Z",
+      "sThongTinChiTiet": "Việt Nam - Ả Rập",
+      "sMoTa": "Trận đấu giữa Việt Nam - Ả Rập",
+      "iThoiLuong": "120",
+      "sViTri": "Sân vận động Mỹ Đình",
+      "iTrangThai": "2"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebc7"
+  },
+  "PK_iMaSukien": 1638202015750,
+  "sTenSukien": "Báo cáo đồ án tốt nghiệp",
+  "sSlugSukien": "bao-cao-do-an-tot-nghiep",
+  "dThoigianBatdau": {
+    "$date": "2021-11-30T17:00:00Z"
+  },
+  "dThoigianKetthuc": {
+    "$date": "2021-12-08T17:00:00Z"
+  },
+  "sMota": "Báo cáo đồ án tốt nghiệp học kỳ I, năm học 2021 - 2022 Khoa công nghệ thông tin, trường Đại học Mở Hà Nội",
+  "sDiadiem": "Khoa Công nghệ thông tin",
+  "sLinkanh": "",
+  "FK_iMaTrangthai": 1,
+  "FK_iMaTaikhoan": "617c49a341888ed7d11c2935",
+  "eventDetails": [
+    {
+      "PK_iMaCTSuKien": 1638202015750,
+      "FK_iMaSuKien": 1638202015750,
+      "dNgayToChuc": "2021-12-02T00:30:38.000Z",
+      "sThongTinChiTiet": "Báo cáo chuyên môn",
+      "sMoTa": "Báo cáo hội đồng chuyên môn",
+      "iThoiLuong": "120",
+      "sViTri": "Khoa Công nghệ thông tin, 96 Định Công",
+      "iTrangThai": 1
+    },
+    {
+      "PK_iMaCTSuKien": 1638202015751,
+      "FK_iMaSuKien": 1638202015750,
+      "dNgayToChuc": "2021-12-06T12:30:27.000Z",
+      "sThongTinChiTiet": "Báo cáo phản biện",
+      "sMoTa": "Báo cáo  phản biện với giảng viên",
+      "iThoiLuong": "20",
+      "sViTri": "Online",
+      "iTrangThai": 1
+    },
+    {
+      "PK_iMaCTSuKien": 1638202015752,
+      "FK_iMaSuKien": 1638202015750,
+      "dNgayToChuc": "2021-12-07T11:30:32.000Z",
+      "sThongTinChiTiet": "Bảo vệ",
+      "sMoTa": "Lễ bảo vệ đồ án tốt nghiệp",
+      "iThoiLuong": "180",
+      "sViTri": "Cơ sở 2 - Khoa Công nghệ thông tin",
+      "iTrangThai": 1
+    }
+  ],
+  "__v": 0
+}]

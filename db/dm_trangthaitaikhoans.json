@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6158521b7573f0069ac6c2fa"
+  },
+  "PK_iMaTrangthai": 0,
+  "sTenTrangthai": "Đang khóa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6158521b7573f0069ac6c2fb"
+  },
+  "PK_iMaTrangthai": 1,
+  "sTenTrangthai": "Hoạt động",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6158521b7573f0069ac6c2fc"
+  },
+  "PK_iMaTrangthai": 2,
+  "sTenTrangthai": "Chưa xác thực",
+  "__v": 0
+}]

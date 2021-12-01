@@ -1,0 +1,54 @@
+# docker-compose.yml
+
+version: "3"
+networks:
+  app-tier:
+    driver: bridge
+
+services:
+  web:
+    build:
+      context: ./viticket-frontend/
+      dockerfile: Dockerfile
+    container_name: web
+    restart: always
+    volumes:
+      - ./viticket-frontend/:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - 3000:3000
+    networks:
+      - app-tier
+    depends_on:
+      - backend
+    links:
+      - backend
+  
+  mongo:
+    image: mongo
+    ports:
+      - 27018:27017
+    volumes:
+      - mongodb:/data/db
+    networks:
+      - app-tier
+
+  backend:
+    restart: always
+    build:
+      context: ./viticket-backend/
+      dockerfile: Dockerfile
+    ports:
+      - 4000:4000
+    volumes:
+      - ./viticket-backend/:/backend
+      - /backend/node_modules
+    networks:
+      - app-tier
+    depends_on:
+      - mongo
+    links:
+      - mongo
+volumes:
+  mongodb:

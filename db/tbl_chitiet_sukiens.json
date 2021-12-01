@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "617e1371863d9490be32be2b"
+  },
+  "PK_iMaCTSuKien": 1635652465702,
+  "FK_iMaSuKien": 1635652465702,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T03:53:43.965Z"
+  },
+  "sThongTinChiTiet": "Hung",
+  "sMoTa": "Hu ng",
+  "iThoiLuong": 6,
+  "sViTri": "Hung",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1371863d9490be32be2c"
+  },
+  "PK_iMaCTSuKien": 1635652465703,
+  "FK_iMaSuKien": 1635652465702,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T03:54:09.136Z"
+  },
+  "sThongTinChiTiet": "Thang",
+  "sMoTa": "Thang",
+  "iThoiLuong": 120,
+  "sViTri": "Hung",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be48"
+  },
+  "PK_iMaCTSuKien": 1635652965450,
+  "FK_iMaSuKien": 1635652965450,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T04:01:48.173Z"
+  },
+  "sThongTinChiTiet": "AKDHAKLDHAKLD",
+  "sMoTa": "SCAKHLADJ;A",
+  "iThoiLuong": 11,
+  "sViTri": "KAShjkaDJDlHDKL",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617e1565863d9490be32be49"
+  },
+  "PK_iMaCTSuKien": 1635652965451,
+  "FK_iMaSuKien": 1635652965450,
+  "dNgayToChuc": {
+    "$date": "2021-10-11T23:29:13Z"
+  },
+  "sThongTinChiTiet": "ADLJAKLDHA;LD",
+  "sMoTa": ";Ldaklhdj;a",
+  "iThoiLuong": 113,
+  "sViTri": "adnaklnhdkladjla",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc64bb7dfe31a467749c3"
+  },
+  "PK_iMaCTSuKien": 1635652465704,
+  "FK_iMaSuKien": 1635652238428,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T03:53:43.965Z"
+  },
+  "sThongTinChiTiet": "Hung",
+  "sMoTa": "Hu ng",
+  "iThoiLuong": 6,
+  "sViTri": "Hung",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc66eb7dfe31a467749c4"
+  },
+  "PK_iMaCTSuKien": 1635652465703,
+  "FK_iMaSuKien": 1635652238428,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T03:53:43.965Z"
+  },
+  "sThongTinChiTiet": "Hung",
+  "sMoTa": "Hu ng",
+  "iThoiLuong": 6,
+  "sViTri": "Hung",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc6beb7dfe31a467749c5"
+  },
+  "PK_iMaCTSuKien": 1635652465704,
+  "FK_iMaSuKien": 1635652238428,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T03:54:09.136Z"
+  },
+  "sThongTinChiTiet": "Thang",
+  "sMoTa": "Thang",
+  "iThoiLuong": 120,
+  "sViTri": "Hung",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc6cbb7dfe31a467749c6"
+  },
+  "PK_iMaCTSuKien": 1635652965451,
+  "FK_iMaSuKien": 1635652965450,
+  "dNgayToChuc": {
+    "$date": "2021-10-31T04:01:48.173Z"
+  },
+  "sThongTinChiTiet": "AKDHAKLDHAKLD",
+  "sMoTa": "SCAKHLADJ;A",
+  "iThoiLuong": 11,
+  "sViTri": "KAShjkaDJDlHDKL",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebcc"
+  },
+  "PK_iMaCTSuKien": 1638202015750,
+  "FK_iMaSuKien": 1638202015750,
+  "dNgayToChuc": {
+    "$date": "2021-12-02T00:30:38Z"
+  },
+  "sThongTinChiTiet": "Báo cáo chuyên môn",
+  "sMoTa": "Báo cáo hội đồng chuyên môn",
+  "iThoiLuong": 120,
+  "sViTri": "Khoa Công nghệ thông tin, 96 Định Công",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebcd"
+  },
+  "PK_iMaCTSuKien": 1638202015751,
+  "FK_iMaSuKien": 1638202015750,
+  "dNgayToChuc": {
+    "$date": "2021-12-06T12:30:27Z"
+  },
+  "sThongTinChiTiet": "Báo cáo phản biện",
+  "sMoTa": "Báo cáo  phản biện với giảng viên",
+  "iThoiLuong": 20,
+  "sViTri": "Online",
+  "iTrangThai": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4fa9f372f3f9645a0ebce"
+  },
+  "PK_iMaCTSuKien": 1638202015752,
+  "FK_iMaSuKien": 1638202015750,
+  "dNgayToChuc": {
+    "$date": "2021-12-07T11:30:32Z"
+  },
+  "sThongTinChiTiet": "Bảo vệ",
+  "sMoTa": "Lễ bảo vệ đồ án tốt nghiệp",
+  "iThoiLuong": 180,
+  "sViTri": "Cơ sở 2 - Khoa Công nghệ thông tin",
+  "iTrangThai": 1,
+  "__v": 0
+}]

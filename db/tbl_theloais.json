@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "617df6bbf70898f3fe84ed30"
+  },
+  "PK_iMaTheloai": 1,
+  "sTenTheloai": "Concerts",
+  "sSlugTheloai": "concerts",
+  "sLinkAnh": "https://www.ticketmaster.com/s3images/discovery/Concerts.jpg",
+  "iThutu": 1,
+  "FK_iMaNguoithem": 1633179710981,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617df6bbf70898f3fe84ed31"
+  },
+  "PK_iMaTheloai": 2,
+  "sTenTheloai": "Sports",
+  "sSlugTheloai": "sports",
+  "sLinkAnh": "https://www.ticketmaster.com/s3images/discovery/Sports.jpg",
+  "iThutu": 2,
+  "FK_iMaNguoithem": 1633179710981,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617df6bbf70898f3fe84ed32"
+  },
+  "PK_iMaTheloai": 3,
+  "sTenTheloai": "Art & Theater",
+  "sSlugTheloai": "art-theater",
+  "sLinkAnh": "https://www.ticketmaster.com/s3images/discovery/Arts.jpg",
+  "iThutu": 3,
+  "FK_iMaNguoithem": 1633179710981,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617df6bbf70898f3fe84ed33"
+  },
+  "PK_iMaTheloai": 4,
+  "sTenTheloai": "Family",
+  "sSlugTheloai": "family",
+  "sLinkAnh": "https://www.ticketmaster.com/s3images/discovery/Family.jpg",
+  "iThutu": 4,
+  "FK_iMaNguoithem": 1633179710981,
+  "__v": 0
+}]

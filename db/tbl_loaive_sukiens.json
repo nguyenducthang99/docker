@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "619bdb4cdab188a5b6d1e7ad"
+  },
+  "PK_iMaLoaiVe": 1637604172632,
+  "FK_iMaCTSuKien": 1637599781527,
+  "sTenLoaiVe": "Hạng A",
+  "iSoLuong": 1000,
+  "iGiave": 2000000,
+  "sPhanLoai": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bdba5dab188a5b6d1ef84"
+  },
+  "PK_iMaLoaiVe": 1637604261927,
+  "FK_iMaCTSuKien": 1637599781527,
+  "sTenLoaiVe": "Hạng B",
+  "iSoLuong": 100,
+  "iGiave": 1750000,
+  "sPhanLoai": "B",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bdbd3dab188a5b6d1f053"
+  },
+  "PK_iMaLoaiVe": 1637604307235,
+  "FK_iMaCTSuKien": 1637599781527,
+  "sTenLoaiVe": "Hạng C",
+  "iSoLuong": 1000,
+  "iGiave": 1500000,
+  "sPhanLoai": "C",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bdc61dab188a5b6d1f82d"
+  },
+  "PK_iMaLoaiVe": 1637604449113,
+  "FK_iMaCTSuKien": 1637599781528,
+  "sTenLoaiVe": "Normal",
+  "iSoLuong": 1000,
+  "iGiave": 1000000,
+  "sPhanLoai": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bdc85dab188a5b6d20004"
+  },
+  "PK_iMaLoaiVe": 1637604485712,
+  "FK_iMaCTSuKien": 1637599781528,
+  "sTenLoaiVe": "Hight",
+  "iSoLuong": 10,
+  "iGiave": 2000000,
+  "sPhanLoai": "Z",
+  "__v": 0
+}]
